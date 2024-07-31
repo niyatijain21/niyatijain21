@@ -1,6 +1,6 @@
 ### Hi there I'm Niyati Jain
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niyatijain21&label=Profile%20views&color=e4e651&style=flat" alt="niyatijain21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niyatijain21&label=Profile%20views&style=flat" alt="niyatijain21" /> </p>
 <p>
 Graduated with Computer Science Major from Rutgers University, USA and completed 7 internships spanning 1.5 years’ experience as an Analyst in diverse industries and numerous projects. Adept at effectively communicating, collaborating, and presenting complex ideas in simple terms.</p>
 
