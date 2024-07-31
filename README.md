@@ -1,19 +1,22 @@
-<h4 align="left">Hi there, I'm Niyati Jain</h4>
+### Hi there I'm Niyati Jain
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niyatijain21&label=Profile%20views&color=e4e651&style=flat" alt="niyatijain21" /> </p>
+<p>
+Graduated with Computer Science Major from Rutgers University, USA and completed 7 internships spanning 1.5 years’ experience as an Analyst in diverse industries and numerous projects. Adept at effectively communicating, collaborating, and presenting complex ideas in simple terms.</p>
 
-<h5 align="left">Graduated with Computer Science Major from Rutgers University, USA and completed 7 internships spanning 1.5 years’ experience as an Analyst in diverse industries and numerous projects. Adept at effectively communicating, collaborating, and presenting complex ideas in simple terms.</h5>
+
+- 💬 We can talk about **Data Science, ML, AI, Cloud
+- 👨‍💻 Actively looking for Data Analyst/Data Engineer/Business Analyst/ML Engineer/Software Engineer roles
 
 
-
-- 💬 We can talk about **Data Science, ML, AI, Cloud**
-
-- 📫 How to reach me **niyatijain2104@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1_wGd6EOrCtn4x7CXzxPZxvdoYHmfaGvH](https://drive.google.com/drive/u/0/folders/1_wGd6EOrCtn4x7CXzxPZxvdoYHmfaGvH)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/niyatijain21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niyatijain21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_niyatijainn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_niyatijainn/" height="30" width="40" /></a>
-</p>
+### Connect With Me:
+<!--
+<a href="https://twitter.com/Aishwar48942221" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a> -->
+<a href="mailto:niyatijain2104@gmail.com?hl=en" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23DC493C.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/niyatijain21/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
+</a>
