@@ -1,5 +1,5 @@
-<h5 align="left">Hi there, I'm Niyati Jain</h5>
-<h6 align="center">Graduated with Computer Science Major and completed 7 internships spanning 1.5 years’ experience as an Analyst in diverse industries and numerous projects. Adept at effectively communicating, collaborating, and presenting complex ideas in simple terms.</h6>
+<h4 align="left">Hi there, I'm Niyati Jain</h4>
+<h5 align="center">Graduated with Computer Science Major and completed 7 internships spanning 1.5 years’ experience as an Analyst in diverse industries and numerous projects. Adept at effectively communicating, collaborating, and presenting complex ideas in simple terms.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niyatijain21&label=Profile%20views&color=e4e651&style=flat" alt="niyatijain21" /> </p>
 
