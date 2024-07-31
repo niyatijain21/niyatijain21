@@ -5,7 +5,7 @@
 Graduated with Computer Science Major from Rutgers University, USA and completed 7 internships spanning 1.5 years’ experience as an Analyst in diverse industries and numerous projects. Adept at effectively communicating, collaborating, and presenting complex ideas in simple terms.</p>
 
 
-- 💬 We can talk about **Data Science, ML, AI, Cloud
+- 💬 We can talk about Data Science, ML, AI, Cloud
 - 👨‍💻 Actively looking for Data Analyst/Data Engineer/Business Analyst/ML Engineer/Software Engineer roles
 
 
