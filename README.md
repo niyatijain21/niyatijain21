@@ -1,4 +1,4 @@
-### Hi there I'm Niyati Jain ◡̈
+### Hi there, I'm Niyati Jain ◡̈
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niyatijain21&label=Profile%20views&style=flat" alt="niyatijain21" /> </p>
 <p>
