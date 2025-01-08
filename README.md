@@ -6,7 +6,7 @@ Graduated with Computer Science Major from Rutgers University, USA and completed
 
 
 - 💬 We can talk about Data Science, ML, AI, Cloud
-- 👨‍💻 Actively looking for Data Analyst/Data Engineer/Business Analyst/ML Engineer/Software Engineer roles
+- 👨‍💻 Data Analyst/Data Engineer/Business Analyst/ML Engineer/Software Engineer related projects
 
 
 ### Connect With Me:
